@@ -1,4 +1,4 @@
-# Content of AI for Trading Nanodegree
+# Content of Udacity AI for Trading Nanodegree
 
 
 ## Environment
