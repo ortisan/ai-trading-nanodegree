@@ -2,6 +2,14 @@
 
 ## Environment
 
+Install [Graphiz](https://graphviz.org/download/). This software is utilized to plot zipline pipeline graph.
+
+```sh
+sudo apt install graphviz
+```
+
+Install python environment.
+
 ```sh
 conda create -n ai_trading python=3.6.3
 conda activate ai_trading
